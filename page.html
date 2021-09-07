@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>This is the page.html title.</title>
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+ <script src ="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+ <script src="https://unpkg.com/babel-standalone@6.25.0/babel.min.js"></script>
+  </head>
+  <body>
+    This is page.html 
+<div id="myApp"></div>
+<script type="text/babel">
+"use strict";
+
+// define a react page compnent (some jsx that will get react to make html elements in teh view (html output ) based on teh data it receives from teh model json
+
+function ProjectList(props) {
+  // return some output for the component using JSX
+  return <div>
+  <ol>
+  { 
+  // use react map() method to loop through the whole data array from my json and build individual list item for each item value in the array. 
+    props.list.map(
+      (item, index) =>(
+        <li key={index}>
+          {item.type}
+        </li>
+      )
+    )
+  }
+</ol>
+</div>
+}
+
+// Use jQuery to get json 
+$.getJSON("data.json", function(jsonFromJquery) {
+  // after json loads, call react render to output component into existing element 
+  // render() takes 2 arguments - 1 JSX compenent and the html element to render into 
+    ReactDOM.render(
+    <ProjectList list={jsonFromJquery} />,
+        document.getElementById("myApp")
+
+    );
+
+});
+      </script>
+  </body>
+  </html>

@@ -1,0 +1,156 @@
+{
+    "pageBreak":{
+        "type":"pageBreak",
+        "pages": [
+            "Ocean City, Maryland to Washington, D.C.",
+            "Washington D.C. to Parkersburg West Virginia",
+            "Parkersburg, West Virginia to Cincinnati, Ohio",
+            "Cincinnati, Ohio to St. Louis, Missouri",
+            "St. Louis, Missouri to Pueblo, Colorado",
+            "Pueblo, Colorado to Ely, Nevada",
+            "Ely, Nevada to Sacramento, California"
+            ]
+    },
+    "introPage":{
+        "type":"page",
+        "title":"The Digital History Museum of U.S. Highway 50",
+        "headline":"The Digital History Museum of U.S. Highway 50",
+        "subHead":"&#34The Loneliest Road in America&#34<br>3,073 Miles from Ocean City Maryland to Sacramento, California",
+        "author":"A digital history presentation written, designed, and developed by Neil Wolfe",
+        "text":"The Highway 50 Digital History Museum is a demonstration of the potential of the emerging field of digital public history, the project is the online publication of my senior thesis, as presented to the University of Alaska, Fairbanks in May of 2019. This online format offers the reader direct access to primary and secondary research sources wherever online versions are available. The hybridization of the complete thesis text with inline imagery and advanced data visualization allows for the best of both worlds with respect to visual relevance and written context. While this “museum is the work of one person, collaboration between historians, web developers, and designers to increase the accessibility of history beyond them realm of academia."
+    },
+    "introPage2":{
+        "type":"page",
+        "title":"The Digital History Museum of U.S. Highway 50",
+        "headline":"The Digital History Museum of U.S. Highway 50",
+        "subHead":"&#34The Loneliest Road in America&#34<br>3,073 Miles from Ocean City Maryland to Sacramento, California",
+        "author":"A digital history presentation written, designed, and developed by Neil Wolfe",
+        "text":"The first real break in the weather came on the week of May 26, 1913. Ralph Faxon, the president of the New Santa Fe Trail Association was no doubt unnerved by the continued postponements of what was to be the apex of his career as a highway booster. May 26 became the day he sat aside the governor of Kansas on the official demonstration drive across half the state in a single day. Three hundred miles from Hutchinson to Kansas City, stopping only for fuel and a brief lunch in Emporia, averaging a break-neck speed of thirty seven and one half miles per hour. Only a year before, such a trek would have been rendered impossible by Kansas &#39; notoriously bad rural trails known for their two seasons: mud and sand. The Newton Kansan newspaper editorialized the delays of the much-promoted road trip by joking that if these postponements kept bringing &#34million dollar rains&#34 and motivated the Good Roads boosters to maintain the dirt highway at their best standards, then by all means keep postponing all summer long. Indeed, the ultimate success of this event served its purpose in bolstering the highway movement, and in a few short years the New Santa Fe Trail would be paved from Missouri to Colorado and beyond. The enthusiasm of highway boosters like Ralph Faxon was as contagious as it was ambitious; the Federal Highway System they proposed would become the biggest public works project in human history.</p><p> The &#34New Santa Fe Trail&#34 was but one of a series of names given this route in this era. The route had earlier been known as the Valley Speedway, and as the National Highway Association took interest in Kansas &#39; shining example, it began to incorporate it into its earliest drafts of numbered National Highways. In less than a decade the route flipped through the designations of Highway 2, then 17, then 8, and ultimately U.S. Highway 50, which it maintains to this day as a part of the U.S. Numbered Highway System &#39;s median route from coast to coast. </p><p> With the dawning of the Interstate revolution of the late 1950 &#39;s, enthusiasm for Highway 50 as a contender for the title of &#34America &#39;s Main Street&#34 began to fade; wars of words debating the value of the Interstate &#39;s pioneering economy against its habit of bypassing small towns (which dominated Highway 50) resulted in Route 50 &#39;s corridor being almost entirely bypassed by the new system. In the wake of this decision, small towns along the 50 indeed endured, but did not thrive. Today Highway 50 remains, decades after the decommissioning of its more famous counterparts, as a living museum of the culture left behind by the Interstate revolution. Owing to its geographical diversity, the highway also offers a useful cross-section of the evolution of American culture through its many historical intersections.</p><p> The history of the U.S. Highway System had been thoroughly covered from hundreds of perspectives and using every mainstream historical theory. Tom Lewis &#39;s book Divided Highways has offered the most well-rounded history of the Interstate Highway System, whereas an ongoing series of books by historians Keith Sculle and geographer John Jakle have covered subjects of highway culture including gas stations, postcards, parking lots, hotels, and fast food. Most modern histories examine highways using a framework called automobility, which uses actor-network theory to show the common themes between highways as networks, and the individual actors, systems, and technologies (such as motorists, law enforcement, and gas stations) that interact with it. The most storied and popular highways, such as Route 66 and Highway 99, have received less-expansive individual treatments from historians and enthusiasts alike. To date, nobody has assembled a comprehensive history of U.S. Highway 50, fabled as &#34America &#39;s Loneliest Road&#34 by Life magazine in 1986. This omission is despite the route &#39;s transcontinental status and countless intersections with important historical events, such as the Underground Railroad in Maryland, and the American settlement of the Northwest Territory in the Ohio River Valley. The few books that have approached U.S. 50 as a whole have been personal travel narratives for which the history of the road was largely footnoted. </p><p> I have chosen to explore the history of U.S. Highway 50 because I want to demonstrate how the U.S. Highway System impacted the development of American values like freedom and nationalism, because highways are useful vectors for understanding America &#39;s modern cultural history. I believe that Highway 50 &#39;s geographical placement and relatively consistent routing over the years render it a particularly useful microcosm for exploring these questions. <br>In this paper, I argue that the national highway system had a homogenizing effect on American cultural values across the rural/urban divide by interconnecting the two in ways never before seen. Cities began to embrace rural cultural values and affectations, developing voracious appetites for Western genre films, hillbilly and race music. (later called country and R&B) Rural inhabitants likewise were granted access to technologies and markets previously only available to those living in the cities, as electrification followed highways into the country and farmers could now interact with distant markets previously inaccessible to them. ",
+        "image":"assets/images/faxson.jpg"
+    },
+    "intro1":{
+        "type":"stdPane",
+        "title":"Introduction: The Loneliest Road",
+        "headline":"Introduction",
+        "subHead":"The Loneliest Road",
+        "text":"&#34It&#39;s totally empty. There are no points of interest. We don&#39;t recommend it...We warn all motorists not to drive there, unless they&#39;re confident of their survival skills.&#34 This American Automobile Association description, under the heading &#34The Loneliest Road,&#34 appeared in a 1986 issue of Life magazine, referencing U.S. Highway 50&#39;s course through the State of Nevada. Many residents along the highway&#39;s 3,073-mile route took consternation from the phrase, recalling the transcontinental highway had once been a contender for the &#34Main Street of America.&#34 The State of Nevada, on the other hand, saw the highway&#39;s new-found infamy as an opportunity; less than a year later, the state legislature took ownership of the &#34Loneliest Road&#34 moniker and began signing the highway as such. The Life magazine blurb erupted a war of letters in newspapers from Tallahassee to Boston to San Bernardino, each weighing in on the nearly-forgotten highway. The road’s newfound status as an issue of national concern was substantial enough to bring with it a public debate on the creation of nearby Great Basin National Park, approved by Congress just three months later.",
+        "source":"srcNewspaperWar"        
+    },
+    "pullQuote1": {
+        "type":"pullQuote",
+        "text":"It's totally empty. There are no points of interest. We don't recommend it...We warn all motorists not to drive there, unless they're confident of their survival skills.",
+        "quoteCitation":"~ The American Automobile Association",
+        "image":"assets/images/quotePope.png",
+        "source":"srcLifeMag"
+    },
+    "intro2": {
+        "type":"stdPane",
+        "text":"The course of Highway 50 coincides very closely with the geographic center of the conterminous United States. The highway encounters a significant diversity of subcultures along its path, making it a useful vector for analyzing American cultural history. Highway 50 winds from the cities of Washington, D.C., Cincinnati, St. Louis, Kansas City, and Sacramento, to the remote mountains of the West Virginia Appalachians and Colorado&#39;s Rockies, to the vast farming country of the Midwest and Ohio River Valley, and ultimately through the now-legendary loneliness of Nevada and Utah&#39;s Great Basin Desert."
+    },
+    "intro3": {
+        "type":"stdPane",
+        "text":"Highway 50 is one the original routes of the United States Numbered Highway System, the history of which has been thoroughly covered from hundreds of perspectives and using every mainstream historical theory. Most modern historians examine highways using a framework called automobility, which uses actor-network theory to show common themes between highways as networks and the individual actors, systems, technologies, and values (such as motorists, law enforcement, gas stations, and freedom) interacting with it.1 The majority of modern highway history is written from a critical perspective, highlighting the system&#39;s environmental externalities and social costs. Tom Lewis&#39;s book Divided Highways offers the most well-rounded history of the more recent Interstate Highway System, whereas an ongoing series of history books by historian Keith Sculle and geographer John Jakle have covered subjects of highway culture including gas stations, hotels, fast food, postcards and even parking lots. While the most storied and popular highways, such as Route 66 and Highway 99, have received individual treatments from historians and enthusiasts alike, to date, no one has assembled a comprehensive history of U.S. Highway 50. This omission is despite the route&#39;s transcontinental status and countless intersections with important historical events, such as the American settlement of the Northwest Territory in the Ohio River Valley, and the discovery of gold in California&#39;s Sierra Nevada mountains. The few books approaching Highway 50 as a whole are personal travel narratives which largely footnote the history of the road."
+    },
+    "srcLifeMag":{
+        "type":"source",
+        "class":"affiliate",
+        "rightSide":false,
+        "bookTitle":"Roads Were Not Built For Cars:",
+        "bookSubTitle":"How Cyclists Were the First to Push for Good Roads & Became the Pioneers of Motoring",
+        "bookAuthor":"by Carlton Reid",
+        "text":"Include room for a personal review.",
+        "image":"assets/images/srcReid.jpg",
+        "button":"assets/images/amazonButton.png"
+    },
+    "intro4": {
+        "type":"stdPane",
+        "text":"Historians have typically approached the issue of race and roads from a damage-centered perspective, highlighting planners&#39; deliberate routing of many highways away from non-white neighborhoods, or in the case of the Interstate system, bulldozing directly through them.1 Professor Kris Lackey has thoroughly covered literary road history, also acknowledging that the transcendental “back to nature” rediscovery theme common among road trip narratives is somewhat ironic when visited from a Native perspective.2 Women&#39;s history scholar Chris Lezotte has re-framed much of modern car culture in a series of papers applying feminist standpoint theory to the automobility framework.3 The multitude of historical perspectives on the subject of automobility represents the network&#39;s vast impact on all levels of American culture."
+    },
+    "srcNewspaperWar":{
+        "type":"source",
+        "class":"primary",
+        "rightSide":true,
+        "bookTitle":"A bunch of Newspapers",
+        "bookSubTitle":"Look at all these newspapers!",
+        "bookAuthor":"I'm a newspapers.",
+        "text":"Did I mention Newspapers?",
+        "image":"assets/images/srcLewis.jpg",
+        "button":"assets/images/newspapersCom.jpg"
+    },
+    "intro5": {
+        "type":"stdPane",
+        "text":"Highway 50 transects regions of extreme rurality and metropolitan centers alike on its path across America. Perceptions of an urban-rural divide between the two dispersive regions has always been an axiomatic aspect of American politics, from Thomas Jefferson&#39;s 1803 description of cities as &#34the sinks of voluntary misery,&#34 to Barack Obama&#39;s 2008 rural dismissive &#34they get bitter, they cling to guns or religion or antipathy to people who aren&#39;t like them... as a way to explain their frustrations.&#341 The division has persistently defined national politics and shows no sign of fading from the public mind. Today, more than half of rural and urban residents respectively believe the other side of the divide holds completely different values from them.2 While America&#39;s urban-rural division remains a popular target for political pundits to exaggerate differences between Americans, the cultural historical perspective shows this divide has rarely been narrower: Tracing the evolution of cultural values like freedom and nationalism on each side of the divide during the twentieth century reveals the United States Highway System as the prime instigating factor in drawing the two cultures closer together. As American culture evolved with the highway network, the system effectively narrowed the cultural gap between rural and urban America by connecting the two at a human level. Suburban development, enabled by the highway system, best exemplifies the homogenization represented by this narrowing.",
+        "source":"srcNewspaperWar",
+        "image":"assets/images/asideAmericanRiverPostcard.jpg",
+        "imageCaption":"Postcard of Highway 50 Along California's American River, Circa 1949",
+        "imagePlacement":"left",
+        "imageSource":"University of Somewhere Postcard Collection",
+        "imageSourceLink":"http://www.uaf.edu"
+    },
+    "image1": {
+        "type":"image",
+        "image":"assets/images/img1913Map.png",
+        "heading":"1913 National Highway Association Proposed System Map"
+    },
+    "image2": {
+        "type":"image",
+        "image":"assets/images/imgGoodRoads.jpg",
+        "heading":"Good Roads Everywhere"
+    },
+    "image3": {
+        "type":"image",
+        "image":"assets/images/imgCuster.jpg",
+        "heading":"The Custer Highway, 1925"
+    },
+    "spacer1": {
+        "type":"spacer",
+        "image":"assets/images/cityOverlay.png",
+        "height":600
+    },
+    "spacer2": {
+        "type":"spacer",
+        "height":300
+    },
+    "spacer3": {
+        "type":"spacer",
+        "height":200
+    },
+    "spacer4": {
+    "type":"spacer",
+    "image":"assets/images/overlayNewton.png",
+    "height":600
+},
+    "spacer5": {
+        "type":"spacer",
+        "zoomH":1800,
+        "zoomY":900
+    },
+    "intro6": {
+        "type":"stdPane",
+        "text":"This site explores this premise using the historical setting of Highway 50 as a prime exemplar. It begins with an examination of how the Good Roads movement broke down the provincialism informed by America&#39;s notoriously bad roadways at the turn of the twentieth century by promoting common values like freedom and nationalism to urban elites and rural farmers alike. This process began a trend leading to the birth of U.S. Highway 50 as the median route of the United States Numbered Highway System in 1926. This paper will then explore a geographical sectional view of United States history, following Highway 50 westward as a sectional vector to see how each region contributed to a more culturally uniform national narrative as Highway 50 developed from traces and trails to a paved transcontinental highway. Finally, this paper will show the effects of the Interstate revolution beginning in the late 1950&#39;s, and how it led to the slow recession of the primacy of Highway 50 and the remainder of the U.S. Numbered Highways. Along numbered highways like U.S. 50, which the Interstate expressway system largely bypassed, the last decades of the twentieth century saw the divide from urban culture slightly expand as the homogenizing trend turned to follow highway progress along the Interstate corridors.",
+        "source":"srcNewspaperWar",
+        "image":"assets/images/asideAmericanRiverPostcard.jpg",
+        "imageCaption":"Postcard of Highway 50 Along California's American River, Circa 1949",
+        "imagePlacement":"left",
+        "imageSource":"University of Somewhere Postcard Collection",
+        "imageSourceLink":"http://www.uaf.edu"
+    },
+    "intro7": {
+        "type":"stdPane",
+        "title":"The Birth of Highway 50",
+        "text":"The lame duck period of the American presidency, originally a four-month span between an election and the formal transfer of executive power, is a vestige of the poor condition and impassibility of colonial-era roads; it was expected to take as long for both news and electors to travel across the thirteen colonies. 1933&#39;s Twentieth Amendment to the Constitution shortened the lame duck period by two months, emerging in an era when highways and the technologies following them progressively accelerated all aspects of American life, including politics.",
+        "source":false
+    },
+    "intro8": {
+        "type":"stdPane",
+        "text":"The Good Roads Movement, beginning in the early 1880&#39;s is the element most responsible for this acceleration. Despite the United States&#39; long-established reputation for poor-quality roads, this first organized movement to improve the nation&#39;s roadways did not emerge until a bicycle craze swept the country during the 1880-90&#39;s. The urban elites who popularized bicycling initially led the movement to build better roads for the sake of their own bicycles, not intending them for the rarely-seen automobile. The movement&#39;s national newsletter, Good Roads Magazine, began publication in 1882 and demonstrated the effectiveness of the Good Roads movement&#39;s influence through featured endorsements and articles written by prominent politicians and jurists, including future President William McKinley.1 The movement&#39;s early goals included securing federal involvement in funding public road improvement, as the federal government was the only entity with the financial means and impetus for common-good projects capable of financing such an expensive undertaking. Beginning in 1893, Congress created the Office of Road Inquiry, largely due to the efforts of bicycle manufacturer Albert Pope, whose personal fortune, vast connections, and flair for theatrics culminated in sending an over-sized petition of 150,000 names to Congress on two rotating spools tall enough to dwarf most people.2 Pope made charmingly compelling public arguments, such as his 1890 suggestion that the condition of the American road “probably gave rise to the theory of ‘survival of the fittest,’ because it would kill any ordinary mortal to ride over it.”3 By 1905, the Office of Road Inquiry confirmed the federal government would play a significant role in road construction, and adopted the more formal title of Office of Public Roads.1 The bureau endured three more name changes and a shuffling of positions in the Federal hierarchy until 1966 when its duties finally landed under the umbrella of the new Federal Highway Administration. Agency nomenclature was only a superficial reflection of the rapid pace at which systemic change occurred in the United States in this era.",
+        "source":false,
+        "image":"assets/images/goodRoads1895.jpg",
+        "imageCaption":"Good Roads Magazine, 1895",
+        "imagePlacement":"left",
+        "imageSource":"University of Somewhere Postcard Collection",
+        "imageSourceLink":"http://www.uaf.edu"
+    }
+    
+}
+
