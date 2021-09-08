@@ -1,18 +1,20 @@
 <html>
   <head>
     <title>This is the page.html title.</title>
- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
- <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
- <script src ="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
- <script src="https://unpkg.com/babel-standalone@6.25.0/babel.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src ="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/babel-standalone@6.25.0/babel.min.js"></script>
   </head>
+
   <body>
     <h1 style="text-align:center">List of Highway 50 Waysides and Their Corresponding States</h1>
-<div id="myApp"></div>
-<script type="text/babel">
+    <div id="myApp"></div>
+
+  <script type="text/babel">
 "use strict";
 
-// define a react page compnent (some jsx that will get react to make html elements in teh view (html output ) based on teh data it receives from teh model json
+// Define a react page compnent (some jsx that will get react to make html elements in the view (html output ) based on the data it receives from the model json.
 
 function Stops(stops) {
   // return some output for the component using JSX
@@ -40,10 +42,9 @@ $.getJSON("data.json", function(jsonFromJquery) {
     ReactDOM.render(
     <Stops list={jsonFromJquery} />,
         document.getElementById("myApp")
-
     );
-
 });
+
       </script>
   </body>
-  </html>
+</html>
